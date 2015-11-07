@@ -3,7 +3,7 @@ package myLearn.orange;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+//Verified by seleniumExpert
 /**
  * Unit test for simple App.
  */
